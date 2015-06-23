@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NEWS Fuel</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fwd">Fwd Tank Inches</string>
+    <string name="laz">Laz Tank Inches</string>
+    <string name="aft">Aft Tank Inches</string>
+    <string name="port">Port Wing Tank Inches</string>
+    <string name="stbd">Starboard Wing Tank Inches</string>
+    <string name="title">NEWS Fuel Calculator</string>
+    <string name="button">Calculate</string>
+    <string name="transferFrom">Transfer Gallons From</string>
+    <string name="transferTo">Select Tank Transfering to:</string>
+    <string name="currentAmountIn">Current Amount in Tank in Inches</string>
+
+
+        <string-array name="tank_array">
+            <item>FowardTank</item>
+            <item>AftTank</item>
+            <item>LazTank</item>
+            <item>PortWingTank</item>
+            <item>StbdWingTank</item>
+        </string-array>
+
+</resources>
